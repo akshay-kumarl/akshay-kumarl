@@ -11,9 +11,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="width:40px; height:40px"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg"  style="width:40px; height:40px"/>         
 
-<img src="https://img.stackshare.io/service/12670/kustomize.png"  style="width:40px; height:40px"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="width:40px; height:40px"/>              
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" style="width:40px; height:40px"/> 
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" style="width:40px; height:40px"/>         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"style="width:40px; height:40px"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" style="width:40px; height:40px"/>       

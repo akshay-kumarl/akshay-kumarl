@@ -1,6 +1,6 @@
 ### Hi there, I am Akshay  👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DevOps+cloud+Engineer;)](https://git.io/typing-svg)
 
 
 

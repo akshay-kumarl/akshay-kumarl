@@ -1,12 +1,10 @@
 ### Hi there  👋
-<br/>
-<br/>
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=998CF7&width=435&lines=Iam+Akshaykumar+Lingampally)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
+<img align="right" alt="AKCoding" width="400" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DevOps+Cloud+Engineer;)](https://git.io/typing-svg)
 

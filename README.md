@@ -1,6 +1,6 @@
-### Hi there  👋
+### Hi there ... 👋!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=iam+Akshaykumar+Lingampally;DevOps+Cloud+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Iam+Akshaykumar+Lingampally;DevOps+Cloud+Engineer)](https://git.io/typing-svg)
 
 <img align="right" alt="AKCoding" width="400" height="250" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
